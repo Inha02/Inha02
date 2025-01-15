@@ -1,7 +1,7 @@
 😄Hello!
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=90EE90&height=200&section=header&text=Inha's%20GitHub&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Inha's%20GitHub&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
 <!--
