@@ -1,10 +1,11 @@
-<p align='center'>
-    안녕하세요😄 <br>
-최인하의 깃허브에 오신 것을 환영합니다!
-</p>
+
 
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Inha's%20GitHub&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+</p>
+
+<p align='center'>
+    안녕하세요😄 최인하입니다!
 </p>
 
 <!--
